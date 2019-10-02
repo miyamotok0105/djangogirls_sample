@@ -28,7 +28,7 @@ git pull
 
 ```
 ソース変更
-git addd hoge.py
+git add hoge.py
 git commit -m "hoge"
 git push origin master
 ```
